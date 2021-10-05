@@ -1,1 +1,3 @@
-alert('Hello World')
+<script>
+document.getElementById("demo").innerHTML = "Hello JavaScript!";
+</script>

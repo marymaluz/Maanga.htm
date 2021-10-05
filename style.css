@@ -1,4 +1,4 @@
-<style>
+
 
 h1 { color : red }
 html{
@@ -61,4 +61,7 @@ p{
     margin:35px;
 }
 
-</style>
+<h1 style="color:blue;">A Blue Heading</h1>
+ ma
+
+<p style="color:red;">A red paragraph.</p>
