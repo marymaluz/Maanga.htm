@@ -1,4 +1,67 @@
 
+
+h1 { color : red }
+html{
+    border: solid;
+}
+
+body {
+    border: 15px solid rgb(253, 253, 253);
+    }
+
+h3.border {
+    margin: 35px;
+    }
+
+h2 {
+    margin: 25px;
+    }
+h3 {
+    margin: 25px;
+    line-height: normal;
+    }
+h4{
+    margin: 25px;
+    }
+
+table, th, td {
+    border:1px solid black;
+    margin: 25px;
+    }
+p{
+    margin:35px;
+}html{
+    border: solid;
+}
+
+body {
+    border: 15px solid rgb(253, 253, 253);
+    }
+
+h3.border {
+    margin: 35px;
+    }
+
+h2 {
+    margin: 25px;
+    }
+h3 {
+    margin: 25px;
+    line-height: normal;
+    }
+h4{
+    margin: 25px;
+    }
+
+table, th, td {
+    border:1px solid black;
+    margin: 25px;
+    }
+p{
+    margin:35px;
+}
+
 <h1 style="color:blue;">A Blue Heading</h1>
+ ma
 
 <p style="color:red;">A red paragraph.</p>
